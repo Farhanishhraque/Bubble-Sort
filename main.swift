@@ -1,7 +1,7 @@
-
+let unsortedstring = ["will", "fish", "Cat", "bat"]
 
 // Add your code below:
-func swap(string: inout [String], firstIndex: String, secondIndex: String){
+func swap(string: inout [String], firstIndex: Int, secondIndex: Int){
     let temp = string[firstIndex]
     string[firstIndex] = string[secondIndex]
     string[secondIndex] = temp
@@ -15,7 +15,7 @@ func sort () {
     while(functionInvoke){
         for i in 0 ..< unsortedArray.count{
             for j in 1 ..< unsortedArray.count - i{
-                if(unsortedArray[j] < unsortedArray[j-1]){
+                if(unsortedArray[j].lowercased() < unsortedArray[j-1].lowercased()){
                     functionInvoke = true
                     tempCount += 1
                     totalCount += 1

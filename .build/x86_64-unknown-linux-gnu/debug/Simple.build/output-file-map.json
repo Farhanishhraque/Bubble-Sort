@@ -2,6 +2,18 @@
   "": {
     "swift-dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
   },
+  "/home/farhan-ishraque/Projects/BubbleSort/BubbleSort.swift": {
+    "dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort.d",
+    "object": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort.swift.o",
+    "swiftmodule": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort~partial.swiftmodule",
+    "swift-dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort.swiftdeps"
+  },
+  "/home/farhan-ishraque/Projects/BubbleSort/STDIN.swift": {
+    "dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN.d",
+    "object": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN.swift.o",
+    "swiftmodule": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN~partial.swiftmodule",
+    "swift-dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN.swiftdeps"
+  },
   "/home/farhan-ishraque/Projects/BubbleSort/main.swift": {
     "dependencies": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
     "object": "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",

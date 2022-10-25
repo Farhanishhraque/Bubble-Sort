@@ -15,6 +15,14 @@
       "inputs" : [
         {
           "kind" : "file",
+          "name" : "/home/farhan-ishraque/Projects/BubbleSort/BubbleSort.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/farhan-ishraque/Projects/BubbleSort/STDIN.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/home/farhan-ishraque/Projects/BubbleSort/main.swift"
         }
       ],
@@ -22,6 +30,8 @@
       "moduleName" : "Simple",
       "moduleOutputPath" : "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/Simple.swiftmodule",
       "objects" : [
+        "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort.swift.o",
+        "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN.swift.o",
         "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
       ],
       "otherArguments" : [
@@ -46,6 +56,14 @@
       "outputs" : [
         {
           "kind" : "file",
+          "name" : "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/BubbleSort.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/STDIN.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o"
         },
         {
@@ -54,6 +72,8 @@
         }
       ],
       "sources" : [
+        "/home/farhan-ishraque/Projects/BubbleSort/BubbleSort.swift",
+        "/home/farhan-ishraque/Projects/BubbleSort/STDIN.swift",
         "/home/farhan-ishraque/Projects/BubbleSort/main.swift"
       ],
       "tempsPath" : "/home/farhan-ishraque/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build",
